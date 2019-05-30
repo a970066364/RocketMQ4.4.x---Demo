@@ -1,4 +1,4 @@
-package app.itw.rocketmq.demo1.controller;
+package app.itw.rocketmq.demo1.producer;
 
 import app.itw.rocketmq.demo1.consume.ConsumeService;
 import org.apache.rocketmq.client.exception.MQClientException;
